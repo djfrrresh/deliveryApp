@@ -1,6 +1,0 @@
-framework module Pods_Delivery_test_app {
-  umbrella header "Pods-Delivery test app-umbrella.h"
-
-  export *
-  module * { export * }
-}
